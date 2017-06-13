@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="HipChat connector">a8337479db1bb200bc33fd051d9619ca</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>HipChat connector Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_luun_hipchat_con_hipchat_connector_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_luun_hipchat_con.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>antonl</sys_created_by>
+        <sys_created_on>2017-06-12 09:39:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>c933b479db1bb200bc33fd051d96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HipChat connector Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HipChat connector" source="x_luun_hipchat_con">90337079db1bb200bc33fd051d961908</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HipChat connector">90337079db1bb200bc33fd051d961908</sys_scope>
+        <sys_update_name>sys_app_module_c933b479db1bb200bc33fd051d96193e</sys_update_name>
+        <sys_updated_by>antonl</sys_updated_by>
+        <sys_updated_on>2017-06-12 09:39:50</sys_updated_on>
+        <timeline_page/>
+        <title>HipChat connector Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="HipChat connector Table" language="en" table="x_luun_hipchat_con_hipchat_connector_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>HipChat connector Table</label>
+            <language>en</language>
+            <name>x_luun_hipchat_con_hipchat_connector_table</name>
+            <plural>HipChat connector Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>antonl</sys_created_by>
+            <sys_created_on>2017-06-12 09:39:49</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>f033b479db1bb200bc33fd051d961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>HipChat connector Table</sys_name>
+            <sys_package display_value="HipChat connector" source="x_luun_hipchat_con">90337079db1bb200bc33fd051d961908</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HipChat connector">90337079db1bb200bc33fd051d961908</sys_scope>
+            <sys_update_name>sys_documentation_x_luun_hipchat_con_hipchat_connector_table__en</sys_update_name>
+            <sys_updated_by>antonl</sys_updated_by>
+            <sys_updated_on>2017-06-12 09:39:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

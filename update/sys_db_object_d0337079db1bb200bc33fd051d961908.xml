@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>HipChat connector Table</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_luun_hipchat_con_hipchat_connector_table</name>
+        <number_ref display_value="HIP">4933b479db1bb200bc33fd051d96192b</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>antonl</sys_created_by>
+        <sys_created_on>2017-06-12 09:39:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d0337079db1bb200bc33fd051d961908</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HipChat connector Table</sys_name>
+        <sys_package display_value="HipChat connector" source="x_luun_hipchat_con">90337079db1bb200bc33fd051d961908</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HipChat connector">90337079db1bb200bc33fd051d961908</sys_scope>
+        <sys_update_name>sys_db_object_d0337079db1bb200bc33fd051d961908</sys_update_name>
+        <sys_updated_by>antonl</sys_updated_by>
+        <sys_updated_on>2017-06-12 09:39:49</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_luun_hipchat_con.user" name="x_luun_hipchat_con.user">a4337479db1bb200bc33fd051d9619ce</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
